@@ -1,0 +1,6 @@
+{
+  "name": "Door, But Together",
+  "description": "A cozy 2-player real-time pixel-art multiplayer world where two players explore a floating island and shared cottage together across phones or desktops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
